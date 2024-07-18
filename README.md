@@ -8,7 +8,7 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbatista21&show_icons=true&theme=dracula&locale=pt-br)
 
-## Tecnologias que uso no dia a dia
+## Tecnologias que eu possuo conhecimento
 
 <div style="display: inline_block"></br>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
